@@ -1,2 +1,2 @@
 # tuto-rotation
->Tutoriel sur les rotation dans Pygame
+>Tutoriel sur les rotations dans Pygame
